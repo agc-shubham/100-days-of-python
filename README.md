@@ -6,3 +6,5 @@ Basic I/O and variables
 Data types and String Manipulation
 # Day 3
 Control Flow and Logical Operators
+# Day 4
+Random Module and Lists in python
