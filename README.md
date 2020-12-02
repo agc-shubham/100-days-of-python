@@ -10,3 +10,5 @@ Control Flow and Logical Operators -- project -Treasure Hunt
 Random Module and Lists in python  -- project -Rock Paper scissors
 # Day 5
 Loops -- project -Random password generator
+# Day 6
+Functions -- project -Maze Solver
