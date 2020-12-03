@@ -12,3 +12,5 @@ Random Module and Lists in python  -- project -Rock Paper scissors
 Loops -- project -Random password generator
 # Day 6
 Functions -- project -Maze Solver
+# Day 7
+Practising concepts -- project -hangman
