@@ -14,3 +14,5 @@ Loops -- project -Random password generator
 Functions -- project -Maze Solver
 # Day 7
 Practising concepts -- project -hangman
+# Day 6
+Functions with arguments --project -ceaser cipher
