@@ -27,3 +27,6 @@ Functions with arguments
 # Day 9
 Dictionaries 
 --project -Anonymous bidding
+# Day 10
+Functions and recursion
+--project -Calculator
