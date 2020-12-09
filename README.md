@@ -30,3 +30,6 @@ Dictionaries
 # Day 10
 Functions and recursion
 --project -Calculator
+# Day 11
+Capstone Project
+--project -Blackjack
