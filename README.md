@@ -33,3 +33,6 @@ Functions and recursion
 # Day 11
 Capstone Project
 --project -Blackjack
+# Day 12
+Functions and Scope
+--project -NumberGuess
