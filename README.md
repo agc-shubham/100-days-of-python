@@ -36,3 +36,5 @@ Capstone Project
 # Day 12
 Functions and Scope
 --project -NumberGuess
+# Day 13
+Debugging
