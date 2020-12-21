@@ -38,3 +38,5 @@ Functions and Scope
 --project -NumberGuess
 # Day 13
 Debugging
+# Day 14
+Higher or Lower Game
