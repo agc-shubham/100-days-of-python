@@ -1,12 +1,12 @@
 from data import data
 from art import logo, vs
 import random
-
+rnum2 = random.randint(0,49)
 
 score = 0
 while(True):
     print(logo)
-    rnum1 = random.randint(0,49)
+    rnum1 = rnum2
     rnum2 = random.randint(0,49)
     if(score):
         print(f"You are right, Final score is {score}")
