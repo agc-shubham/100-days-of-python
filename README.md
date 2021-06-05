@@ -42,3 +42,5 @@ Debugging
 Higher or Lower Game
 # Day 15
 Script for operating coffee machine
+# Day 16
+Script for operating coffee machine using OO paradigm
