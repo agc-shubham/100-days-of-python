@@ -40,3 +40,5 @@ Functions and Scope
 Debugging
 # Day 14
 Higher or Lower Game
+# Day 15
+Script for operating coffee machine
