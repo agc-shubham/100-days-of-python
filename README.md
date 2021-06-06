@@ -44,3 +44,5 @@ Higher or Lower Game
 Script for operating coffee machine
 # Day 16
 Script for operating coffee machine using OO paradigm
+# Day 17
+Quiz Project using OOPS
