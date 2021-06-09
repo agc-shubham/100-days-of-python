@@ -48,3 +48,7 @@ Script for operating coffee machine using OO paradigm
 Quiz Project using OOPS
 # Day 18
 Playing with turtle library and creating a painting with turtle using hirst color palatte 
+# Day 19
+Build Two games
+i) Screen  Draw
+ii) Turtle Race
