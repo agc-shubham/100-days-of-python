@@ -49,6 +49,6 @@ Quiz Project using OOPS
 # Day 18
 Playing with turtle library and creating a painting with turtle using hirst color palatte 
 # Day 19
-Build Two games
+Built Two games
 i) Screen  Draw
 ii) Turtle Race
