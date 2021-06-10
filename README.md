@@ -52,3 +52,5 @@ Playing with turtle library and creating a painting with turtle using hirst colo
 Built Two games
 i) Screen  Draw
 ii) Turtle Race
+# Day 20
+Making Snake Game Part: 1
