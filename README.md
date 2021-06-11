@@ -54,3 +54,5 @@ i) Screen  Draw
 ii) Turtle Race
 # Day 20
 Making Snake Game Part: 1
+# Day 21
+Making Snake Game Part: 2
