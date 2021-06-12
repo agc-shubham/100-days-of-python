@@ -61,3 +61,5 @@ Making Snake Game Part: 2
 Making a Ping Pong game
 # Day 23 
 Turtle Crossing game
+# Day 24 
+working with files, directory and paths. Updating snake game created on Day 21 and writing script to replace specific sections from files 
