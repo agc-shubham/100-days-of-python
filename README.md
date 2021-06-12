@@ -1,3 +1,4 @@
+
 # 100-days-of-python
 100 days of coding in python to gain professional proficiency
 # Day 1
@@ -56,3 +57,5 @@ ii) Turtle Race
 Making Snake Game Part: 1
 # Day 21
 Making Snake Game Part: 2
+# Day 22
+Making a Ping Pong game
