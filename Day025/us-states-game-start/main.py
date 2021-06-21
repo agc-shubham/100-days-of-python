@@ -19,12 +19,14 @@ while len(guessed_states) <= 50:
     answer_state = answer_state.title()
     
     if answer_state == "Exit":
-        missing_states = []
-        for state in states:
-            if state not in guessed_states:
-                missing_states.append(state)
+        
+        missing_states = [state for state in states if state not in guessed_states ]
+        # for state in states:
+        
+        #     if state not in guessed_states:
+        #         missing_states.append(state)
 
-        break
+        # break
 
     if answer_state in states:
         guessed_states.append(answer_state)

@@ -64,4 +64,6 @@ Turtle Crossing game
 # Day 24 
 working with files, directory and paths. Updating snake game created on Day 21 and writing script to replace specific sections from files
 # Day 25
-Leearning to use Pandas & Map Game using turtle and pandas 
+Learning to use Pandas & Map Game using turtle and pandas 
+# Day 26
+List Comprehension 
